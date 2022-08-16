@@ -1,4 +1,8 @@
-# What is MyProduct?
+---
+description: Perkenalan siapa saya dan kenapa bisa tertarik di engineering management
+---
+
+# Intro.
 
 
 
