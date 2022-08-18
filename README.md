@@ -4,7 +4,16 @@ description: Perkenalan siapa saya dan kenapa bisa tertarik di engineering manag
 
 # Intro.
 
+:thinking:&#x20;
 
+<details>
+
+<summary>Daftar Isi</summary>
+
+1. Kesimpulan
+2. Mind map
+
+</details>
 
 {% hint style="info" %}
 **Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
